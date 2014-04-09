@@ -1,8 +1,8 @@
 GIT
   remote: git@github.com:gusaaaaa/easyparser.git
-  revision: 7ac9f3200006f756fad140001a91dfd2752b8e9c
+  revision: da1b7faf71a2e713fd3e14f0d22fb73e18f871df
   specs:
-    easyparser (0.0.0)
+    easyparser (0.0.5)
       nokogiri (~> 1.6.1)
 
 GEM
