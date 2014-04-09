@@ -1,0 +1,474 @@
+Tipo,"Denominación",N°,Fecha,"Medio de publicación y fecha","Fecha de última actualización","Efectos Generales","Descripción del objeto del acto"
+Instrucción,"Instrucción General N°11",s/n,27.12.2013,"Diario Oficial
+30.01.2014","Sin modificaciones","Sí","Instrucciones generales sobre Transparencia Activa, en las que se introducen modificaciones a las Instrucciones Generales Nº 4, 7 y 9, y se fija un texto refundido, coordinado y sistematizado de las mismas, cuyo finalidad es incorporar algunas precisiones sobre la materia y consolidar en un único texto la regulación sobre Transparencia Activa emanada de esta Corporación, con el objeto de facilitar la comprensión y utilización de los mencionados instrumentos normativos."
+Instrucción,"Instrucción General N°10",10,28.10.2011,"Diario Oficial
+17.12.2011","Sin modificaciones","Sí","Procedimiento administrativo sobre el Derecho de Acceso a la Información"
+Instrucción,"Instrucción General N°9",9,10.08.2010,"Diario Oficial
+20.08.2010","Sin modificaciones","Sí","Modifica las instrucciones generales N°4 y N°7"
+Instrucción,"Instrucción General N°8",8,10.08.2010,"Diario Oficial
+20.08.2010","Sin modificaciones","Sí","Obligación de informar de los antecedentes preparatorios de las normas jurídicas generales que afecten a empresas de menor tamaño"
+Instrucción,"Instrucción General N°7",7,18.05.2010,"Diario Oficial
+25.05.2010","Diario Oficial 20.08.2010","Sí","Complementa la Instrucción General N°4"
+Instrucción,"Instrucción General N°6 sobre gratuidad y costos directos de reproducción",6,22.03.2010,"Diario Oficial
+30.03.2010","Sin modificaciones","Sí","Sobre gratuidad y costos directos de reproducción"
+Instrucción,"Instrucción General N°5 sobre Transparencia Activa para Empresas Públicas, Empresas del Estado y Sociedades del Estado",5,19.01.2010,"Diario Oficial
+3.02.2010","Sin modificaciones","Sí","Sobre Transparencia Activa para Empresas Públicas, Empresas del Estado y Sociedades del Estado"
+Instrucción,"Instrucción General N°4 sobre Transparencia Activa",4,19.01.2010,"Diario Oficial
+3.02.2010","Diario Oficial 20.08.2010","Sí","Sobre Transparencia Activa"
+Instrucción,"Instrucción General N°3",3,8.05.2009,"Diario Oficial
+16.05.2009","Sin modificaciones","Sí","Instructivo con Índice de Actos y Documentos Calificados como Secretos y Reservados"
+Instrucción,"Instrucción General N°2",2,28.04.2009,"Diario Oficial
+16.05.2009","Sin modificaciones","Sí","Desginación de Enalces"
+Instrucción,"Instrucción General N°1",1,15.04.2009,"Diario Oficial
+16.05.2009","Sin modificaciones","Sí","Reclamos dirigidos al Consejo para la Transparencia presentados en las gobernaciones"
+Tipo,"Denominación",N°,Fecha,"Medio de publicación y fecha","Fecha de última actualización","Efectos Generales","Descripción del objeto del acto"
+Acuerdo,"",S/N,20.06.2013,"Diario Oficial 20.06.2013","Sin modificaciones","Sí","Acuerdo del Consejo para la Transparencia que delega ciertas facultades en la autoridad y funcionarios que indica con el objeto de agilizar la tramitación de los casos que deba conocer."
+Acuerdo,"Acuerdo del Consejo para la Transparencia que delega ciertas facultades en la autoridad y funcionarios que indica",S/N,21.09.2012,"Diario Oficial
+21.09.2012","Sin modificaciones","Sí","Acuerdo del Consejo para la Transparencia que delega ciertas facultades en la autoridad y funcionarios que indica con el objeto de agilizar la tramitación de los casos que deba conocer."
+Acuerdo,"Acuerdo que complementa la Instrucción General N°10, sobre el procedimiento administrativo de acceso a la información, en lo relativo a su fiscalización",S/N,03.02.2012,"Diario Oficial
+17.02.2012","Sin modificaciones","Sí","Prorroga hasta el 30.06.2012 la fiscalización de los puntos cuyo cumplimiento exija modificar los sistemas informáticos actualmente empleados por los organismos públicos para gestionar el procedimiento de acceso a la información."
+Acuerdo,"Acuerdo sobre improcedencia del recursos de reposición en contra de sus decisiones",S/N,09.06.2011,"Diario Oficial
+09.06.2011","Sin modificaciones","Sí","Se declaran inadmisibles los recursos de reposición que se presenten ante el Consejo"
+Acuerdo,"Acuerdo del Consejo para la Transparencia sobre el tratamiento de los conflictos de intereses",S/N,09.11.2009,"Sitio web del organismo 9.11.2009","Sin modificaciones","No","Fija los lineamientos para aquellos casos en que haya conflicto de intereses"
+Acuerdo,"Acuerdo adoptado por el Consejo para la Transparencia en su sesión N°63, de 2009: Delegación de ciertas facultades en la autoridad y funcionario que indica",S/N,30.06.2009,"Diario Oficial
+06.07.2009","Sin modificaciones","Sí","Delegación de ciertas facultades en la autoridad y funcionario que indica"
+Acuerdo,"Extracto de acta de la sesión ordinaria N° 16 del Consejo Directivo del Consejo para la Transparencia",S/N,09.01.2009,"Diario Oficial
+24.04.2009","Sin modificaciones","No","Designa al Director General del Consejo para la Transparencia"
+Tipo,"Denominación",N°,Fecha
+depacho
+oficio,"Medio de publicación y fecha","Fecha de última actualización","Efectos Generales","Descripción del objeto del acto"
+Oficio,"Solicita instrucción de sumario",706,20.02.2014,"","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario en contra del Alcalde de la Municipalidad de Ovalle, por infracción al derecho de acceso a la información."
+Oficio,"Solicita instrucción de sumario",669,14.02.2014,"","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario en contra del Alcalde de la Municipalidad de San Pedro de la Paz, por infracción al derecho de acceso a la información."
+Oficio,"Solicita instrucción de sumario",602,11.02.2014,"","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario en contra del Alcalde de la Municipalidad de Copiapó, por infracción a los deberes de transparencia activa."
+Oficio,"Solicita instrucción de sumario",11,06.01.2014,"","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario en contra del Presidente del Consejo de Defensa del Estado, por infracción al derecho de acceso a la información."
+Oficio,"Solicita instrucción de sumario",5464,26.12.2013,"","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario en contra del Alcalde de la Municipalidad de Lota, por infracción al derecho de acceso a la información pública."
+Oficio,"Solicita instrucción de sumario",3948,13.09.2013,"Notificación electrónica 08.10.2013","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario en la Corporación Munipal de Chonchi, por incumplimiento de Reclamos C936-11 y C269-13."
+Oficio,"Solicita instrucción de sumario",3947,13.09.2013,"Notificación electrónica 08.10.2013","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario en la Corporación Munipal de Pta. Arenas, por incumplimiento de Reclamos C480-11 y CC805-12."
+Oficio,"Solicita instrucción de sumario",2392,30.04.2013,"Notificación electrónica 17.06.2013","N/A","No","Solicita a Contraloría, se incoe un sumario administrativo en contra de la Sra. Directora Nacional del Servicio Electoral para establecer si su conducta en la etapa de cumplimiento de la decisión recaída en el Amparo Rol C1419-12."
+Oficio,"Solicita instrucción de sumario",2513,30.04.2013,"Notificación electrónica 24.06.2013","N/A","No","Solicita a Contraloría, se incoe un sumario administrativo en contra del Sr. Directora del Hospital Guillermo Grant Benavneta para establecer si su conducta en la etapa de cumplimiento de la decisión recaída en el Amparo Rol C16-13."
+Oficio,"Solicita instrucción de sumario",1599,30.04.2013,"Notificación electrónica 16.04.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Valdiva, Amparo C1769-12"
+Oficio,"Solicita instrucción de sumario",1695,16.05.2012,"Notificación electrónica 16.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Chile Chico, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C1194-11"
+Oficio,"Solicita instrucción de sumario",1477,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Iquique, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1476,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Independencia, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1474,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Estación Central, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1470,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Río Bueno, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1466,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Rengo, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1463,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Las Cabras, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1462,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Coltauco, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1461,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Los Álamos, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1458,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Futrono, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1453,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de El Monte, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1451,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Nancagua, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",104,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Concón, Reclamo C693-11"
+Oficio,"Solicita instrucción de sumario",3.742,10.10.2012,"Notificación
+10.10.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Monte Patria, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C646-12"
+Oficio,"Solicita instrucción de sumario",3.741,10.10.2012,"Notificación
+10.10.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Mostazal, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C611-11"
+Oficio,"Solicita instrucción de sumario",3.740,10.10.2012,"Notificación
+10.10.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad deSan Clemente, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C460-12"
+Oficio,"Solicita instrucción de sumario",3.633,4.10.2012,"Notificación
+4.10.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Lo Prado, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C140-12"
+Oficio,"Solicita instrucción de sumario",3.632,4.10.2012,"Notificación
+4.10.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de San José de Maipo, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C154-12 y C1583-11"
+Oficio,"Solicita instrucción de sumario",3.284,5.09.2012,"Notificación
+5.09.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al Director del SERVIU de la Región Metropolitana y al Subsecretario de Vivienda y Urbanismo por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C520-12"
+Oficio,"Solicita instrucción de sumario",3.206,31.08.2012,"Notificación
+31.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Concepción, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C354-11 y C388-11"
+Oficio,"Solicita instrucción de sumario",3.205,31.08.2012,"Notificación
+31.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Puerto Varas, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C608-11"
+Oficio,"Solicita instrucción de sumario",3.204,31.08.2012,"Notificación
+31.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la alcaldesa de la Municipalidad de Máfil, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C894-11"
+Oficio,"Solicita instrucción de sumario",3.203,31.08.2012,"Notificación
+31.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Vicuña, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C1152-11"
+Oficio,"Solicita instrucción de sumario",3.202,31.08.2012,"Notificación
+31.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a Intendenta Regional de Atacama, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C1068-11"
+Oficio,"Solicita instrucción de sumario",3.201,31.08.2012,"Notificación
+31.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Llanquihue, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamos C506-11 y C507-11"
+Oficio,"Solicita instrucción de sumario",3.199,31.08.2012,"Notificación
+31.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Las Guaitecas, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C601-11"
+Oficio,"Solicita instrucción de sumario",3.198,31.08.2012,"Notificación
+31.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Calama, por incumplimiento tras decisiones del Consejo para la Transparencia sobre reclamos C317-11 y C1437-11"
+Oficio,"Solicita instrucción de sumario",3.197,31.08.2012,"Notificación
+31.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Contulmo, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C82-12"
+Oficio,"Solicita instrucción de sumario",2.962,20.08.2012,"Notificación
+20.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Chile Chico, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C1111-11"
+Oficio,"Solicita instrucción de sumario",2.961,20.08.2012,"Notificación
+20.08.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcaldesa de la Municipalidad de Chanco, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C60-12"
+Oficio,"Solicita instrucción de sumario",1.695,16.05.2012,"Notificación electrónica 16.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Chile Chico, por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C1194-11"
+Oficio,"Solicita instrucción de sumario",1.481,03.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Maipú, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.478,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Talca, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.477,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Iquique, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.476,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Independencia, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.475,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de San Joaquín, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.474,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Estación Central, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.473,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Cauquenes, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.472,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Monte Patria, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.471,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Angol, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.470,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Río Bueno, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.469,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Lampa, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.468,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de La Ligua, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.467,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Villarrica, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.466,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Rengo, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.465,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Padre Hurtado, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.464,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Teodoro Schmidt, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.463,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Las Cabras, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.462,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Coltauco, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.461,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Los Álamos, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.460,02.05.2012,"Notificación electrónica 
+03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Nogales, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.459,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Coelemu, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.458,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Futrono, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.457,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Mariquina, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.456,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Maullín, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.455,02.05.2112,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Traiguén, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.454,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Bulnes, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.453,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de El Monte, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.452,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Lebu, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.451,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Nancagua, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.450,02.05.2012,"Notificación electrónica 03.05.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Purranque, fiscalización en materia de Transparencia Activa"
+Oficio,"Solicita instrucción de sumario",1.422,30.04.2012,"Notificación 30.04.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Sierra Gorda, Amparo C1095-11"
+Oficio,"Solicita instrucción de sumario",1.021,02.04.2012,"Notificación 02.04.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Taltal, Reclamo R8-09"
+Oficio,"Solicita instrucción de sumario",933,27.03.2012,"Notificación 27.03.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alcalde de la Municipalidad de Cartagena, Amparo C1436-11"
+Oficio,"Solicita instrucción de sumario",528,17.02.2012,"Notificación 17.02.2012","N/A","No","Solicita a la Contraloría instrucción de sumario al alaclde de la Municipalidad de San Pedro La Paz, Amparo C1373-11"
+Oficio,"Solicita instrucción de sumario",527,17.02.2012,"Notificación 17.02.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a Fondo Nacional de Salud, Amparo C1190-11"
+Oficio,"Solicita instrucción de sumario",195,20.01.2012,"Notificación 20.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a Gendarmería de Chile, Amparo C1218-11"
+Oficio,"Solicita instrucción de sumario",107,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Conchalí, Reclamo C179-11"
+Oficio,"Solicita instrucción de sumario",106,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de San Fernando, Reclamo C861-10"
+Oficio,"Solicita instrucción de sumario",105,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de El Tabo, Reclamo R21-09"
+Oficio,"Solicita instrucción de sumario",104,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Concón, Reclamo C693-11"
+Oficio,"Solicita instrucción de sumario",103,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Curicó, Reclamo C497-10"
+Oficio,"Solicita instrucción de sumario",102,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Talcahuano, Reclamo C265-11"
+Oficio,"Solicita instrucción de sumario",101,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Constitución, Reclamo C649-11"
+Oficio,"Solicita instrucción de sumario",100,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Papudo, Reclamo C581-09 y C494-10"
+Oficio,"Solicita instrucción de sumario",99,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Cabrero, Reclamo C813-10"
+Oficio,"Solicita instrucción de sumario",98,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Chiguayante, Reclamo C497-09"
+Oficio,"Solicita instrucción de sumario",97,11.01.2012,"Notificación 11.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Pichidegua, Reclamo C88-11"
+Oficio,"Solicita instrucción de sumario",80,10.01.2012,"Notificación 10.01.2012","N/A","No","Solicita a la Contraloría instrucción de sumario a la Municipalidad de Independencia, Amparo C139-11"
+Oficio,"Solicita instrucción de sumario",3240,06.12.2011,"Notificación 06.12.2011","N/A","No","Solicita a la Contraloría instrucción de sumario a la municipalidad de Viña del Mar por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C563-10."
+Oficio,"Solicita instrucción de sumario",2351,12.09.2011,"Notificación 12.09.2011","N/A","No","Solicita a la Contraloría instrucción de sumario a la Subsecretaría para las Fuerzas Armadas tras decisión del Consejo para la Transparencia sobre reclamo C632-11"
+Oficio,"Solicita instrucción de sumario",2144,25.08.2011,"Notificación 25.08.2011","N/A","No","Solicita a la Contraloría instrucción de sumario a la municipalidad de El Quisco por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C388-09"
+Oficio,"Solicita instrucción de sumario",1600,30.06.2011,"Notificación 30.06.2011","N/A","No","Solicita a la Contraloría instrucción de sumario a la municipalidad de Iquique por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C34-11"
+Oficio,"Solicita instrucción de sumario",727,28.03.2011,"Notificación 28.03.2011","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario contra la Alcaldesa de la Municipalidad de Algarrobo, para establecer si su conducta en la etapa de cumplimiento de decisión Amparo C674-10, constituye infracción del art. 46  de la Ley N° 20.285."
+Oficio,"Solicita instrucción de sumario",726,25.03.2011,"Notificación 25.03.2011","N/A","No","Solicita a la Contraloría instrucción de sumario a la municipalidad de Cochamó por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo A308-09."
+Oficio,"Solicita instrucción de sumario",717,25.03.2011,"Notificación 25.03.2011","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario contra la Alcaldesa de la Municipalidad de Viña del Mar, para establecer si su conducta en la etapa de cumplimiento de decisión Amparo C293-10, constituye infracción del art. 46  de la Ley N° 20.285."
+Oficio,"Solicita instrucción de sumario",662,18.03.2011,"Notificación 18.03.2011","N/A","No","Solicita a la Contraloría instrucción de sumario al Servicio de Vivienda y Urbanismo de la región del Maule por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo C62-10."
+Oficio,"Solicita instrucción de sumario",412,25.02.2011,"Notificación 25.02.2011","N/A","No","Solicita a la Contraloría General de la República instrucción de sumario contra el Alcalde de la Municipalidad de Vitacura, para establecer si su conducta en la etapa de cumplimiento de decisión Amparo C756-10, constituye denegación infundada del derecho de acceso a la información del art. 45 y siguientes de la Ley N° 20.285."
+Oficio,"Solicita instrucción de sumario",310,07.02.2011,"Notificación 07.02.2011","N/A","No","Solicita a la Contraloría instrucción de sumario al Servicio de Salud Viña del Mar – Quillota"
+Oficio,"Solicita instrucción de sumario",719,26.04.2010,"Notificación 26.04.2010","N/A","No","Solicita a la Contraloría instrucción de sumario a la municipalidad de El Carmen por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo R6-09."
+Oficio,"Solicita instrucción de sumario",633,08.04.2010,"Notificación 09.04.2010","N/A","No","Solicita a la Contraloría instrucción de sumario a la municipalidad de Ovalle por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo R13-09."
+Oficio,"Solicita instrucción de sumario",637,06.04.2010,"Notificación 09.04.2010","N/A","No","Solicita a la Contraloría instrucción de sumario a la municipalidad de Pencahue por incumplimiento tras decisión del Consejo para la Transparencia sobre reclamo R19-09."
+Tipo,"Denominación",N°,Fecha,"Medio de publicación y fecha","Fecha de última actualización","Efectos Generales","Descripción del objeto del acto"
+Resolución,"Convenio de colaboración entre la Municipalidad de Ranco y el Consejo para la Transparencia",673,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Villa Alegre y el Consejo para la Transparencia",671,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Pelarco y el Consejo para la Transparencia",670,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Sagrada Familia y el Consejo para la Transparencia",669,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Yerbas Buenas y el Consejo para la Transparencia",668,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Pencahue y el Consejo para la Transparencia",667,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de San Rafael y el Consejo para la Transparencia",666,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Talca y el Consejo para la Transparencia",665,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Teno y el Consejo para la Transparencia",664,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Curicó  y el Consejo para la Transparencia",663,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Romeral  y el Consejo para la Transparencia",662,27.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Nancagua y el Consejo para la Transparencia",659,20.12.2013,"","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Lolol y el Consejo para la Transparencia",658,20.12.2013,"Sitio web 08.01.2014","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Lago Verde y el Consejo para la Transparencia",657,20.12.2013,"","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"[Convenio](/consejo/site/artic/20131105/asocfile/20131105164728/fortalecimiento_del_ejercicio_del_derecho_al_acceso_a_la_informaci__n_p__blica_en_chile_pnud.pdf) de Asistencia Preparatoria entre el Consejo para la Transparencia y el Programa de Naciones Unidas para el Desarrollo (PNUD)",686,28.12.2012,"","Sin modificaciones","No","Se aprueba el segundo convenio sobre el proyecto denominado "Expandiendo el derecho de acceso a la información para fortalecer la democracia y gobernabilidad", en el cual se trabajará en capacitaciones, ley 20.285, impacto del derecho de acceso, líneas estratégicas de colaboración entre el PNUD y el CPLT, entre otros"
+Resolución,"Convenio de colaboración entre la Municipalidad de Padre Hurtado y el Consejo para la Transparencia",625,06.11.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Chimbarongo y el Consejo para la Transparencia",618,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Yungay y el Consejo para la Transparencia",612,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Chiguayante   y el Consejo para la Transparencia",611,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Colemu y el Consejo para la Transparencia",610,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Cabrero y el Consejo para la Transparencia",609,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Chillán y el Consejo para la Transparencia",608,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Chillán Viejo y el Consejo para la Transparencia",607,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Coihueco  y el Consejo para la Transparencia",606,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Contulmo  y el Consejo para la Transparencia",605,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Curanilahue  y el Consejo para la Transparencia",604,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de los Alamos  y el Consejo para la Transparencia",602,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Nacimiento y el Consejo para la Transparencia",601,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Quirihue  y el Consejo para la Transparencia",600,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Lota y el Consejo para la Transparencia",599,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Lebu y el Consejo para la Transparencia",598,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Yumbel y el Consejo para la Transparencia",597,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de San Carlos y el Consejo para la Transparencia",596,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Trehuaco y el Consejo para la Transparencia",595,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Penco y el Consejo para la Transparencia",594,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Buelnes y el Consejo para la Transparencia",593,30.10.2013,"Sitio web 08.11.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Alto del Carmen y el Consejo para la Transparencia",478,04.09.2012,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de La Reina y el Consejo para la Transparencia",472,02.09.2012,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Paihuano y el Consejo para la Transparencia",471,02.09.2012,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Monte Patria y el Consejo para la Transparencia",470,02.09.2012,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Combarbalá y el Consejo para la Transparencia",469,02.09.2012,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de la Serena y el Consejo para la Transparencia",468,02.09.2012,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Salamanca y el Consejo para la Transparencia",467,02.09.2012,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Illapel y el Consejo para la Transparencia",466,02.09.2012,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Codegua y el Consejo para la Transparencia",431,19.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de General Lagos y el Consejo para la Transparencia",430,19.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Putre y el Consejo para la Transparencia",429,19.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Camarones y el Consejo para la Transparencia",428,19.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Sierra Gorda y el Consejo para la Transparencia",408,07.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Hualpén y el Consejo para la Transparencia",407,07.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Tocopilla y el Consejo para la Transparencia",406,07.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Antofagasta y el Consejo para la Transparencia",405,07.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Taltal y el Consejo para la Transparencia",404,07.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Ollague y el Consejo para la Transparencia",403,07.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Calama y el Consejo para la Transparencia",402,07.08.2013,"Sitio web
+05.09.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Pozo Almonte y el Consejo para la Transparencia",357,19.07.2013,"Sitio web
+10.08.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Pica y el Consejo para la Transparencia",358,19.07.2013,"Sitio web
+10.08.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Iquique y el Consejo para la Transparencia",355,19.07.2013,"Sitio web
+10.08.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Colchane y el Consejo para la Transparencia",354,19.07.2013,"Sitio web
+10.08.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Alto Hospicio y el Consejo para la Transparencia",356,19.07.2013,"Sitio web
+10.08.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado"
+Resolución,"Convenio de colaboración entre la Municipalidad de Porvenir y el Consejo para la Transparencia",235,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Punta Arenas y el Consejo para la Transparencia",234,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Río Verde y el Consejo para la Transparencia",233,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Torres del Paine y el Consejo para la Transparencia",232,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Cabo de Hornos y el Consejo para la Transparencia",231,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Natales y el Consejo para la Transparencia",230,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Primavera y el Consejo para la Transparencia",229,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Molina y el Consejo para la Transparencia",228,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Independencia y el Consejo para la Transparencia",227,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Renaico y el Consejo para la Transparencia",226,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de El Monte y el Consejo para la Transparencia",224,27.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Peñalolén y el Consejo para la Transparencia",222,24.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Doñihue y el Consejo para la Transparencia",221,24.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Isla de Maipo y el Consejo para la Transparencia",206,16.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Calle Larga y el Consejo para la Transparencia",202,14.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Cerro Navia y el Consejo para la Transparencia",201,14.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Buin y el Consejo para la Transparencia",200,14.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de San José de Maipo y el Consejo para la Transparencia",199,14.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Secretaría General de la Presidencia y el Consejo para la Transparencia",186,10.05.2013,"Sitio web
+9.06.2013","Sin modificaciones","No","Regula el funcionamiento y operación del Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Lo Prado y el Consejo para la Transparencia",179,08.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de La Calera y el Consejo para la Transparencia",178,08.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Quilpué y el Consejo para la Transparencia",177,08.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Coltauco y el Consejo para la Transparencia",175,08.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Vitacura y el Consejo para la Transparencia",174,08.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de San Joaquín y el Consejo para la Transparencia",173,08.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Malloa y el Consejo para la Transparencia",172,08.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Zapallar y el Consejo para la Transparencia",171,07.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Pirque y el Consejo para la Transparencia",170,07.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Hijuelas y el Consejo para la Transparencia",169,07.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de San Antonio y el Consejo para la Transparencia",163,03.05.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de La Granja y el Consejo para la Transparencia",148,26.04.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Cerrillos y el Consejo para la Transparencia",147,26.04.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Recoleta y el Consejo para la Transparencia",127,09.04.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Huechuraba y el Consejo para la Transparencia",126,09.04.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Quinta Normal y el Consejo para la Transparencia",125,09.04.2013,"Sitio web
+9.05.2013","Sin modificaciones","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Decreto del Ministerio del Interior,"Aprueba convenio de colaboración entre la SUBDERE y el Consejo para la Transparencia",1037,07.03.13,"Sitio web
+30.05.13","Oficio Min.Int (Ord) N° 2305 del 20.05.13 de la Subdere que informa la total tramitación del Decreto 1037","No","Implementar el Modelo de Gestión en Transparencia Municipal y el Portal de Transparencia del Estado."
+Resolución,"Convenio de colaboración entre la Municipalidad de Viña del Mar y el Consejo para la Transparencia",362,4.07.2012,"Sitio web
+4.07.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Villa Alemana y el Consejo para la Transparencia",347,27.06.2012,"Sitio web
+27.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de La Calera y el Consejo para la Transparencia",346,27.06.2012,"Sitio web
+27.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Las Cabras y el Consejo para la Transparencia",342,26.06.2012,"Sitio web
+26.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de El Monte y el Consejo para la Transparencia",341,22.06.2012,"Sitio web
+22.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Doñihue y el Consejo para la Transparencia",331,20.06.2012,"Sitio web
+20.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de San Felipe y el Consejo para la Transparencia",329,19.06.2012,"Sitio web
+19.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Coltauco y el Consejo para la Transparencia",315,14.06.2012,"Sitio web
+14.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Cartagena y el Consejo para la Transparencia",314,14.06.2012,"Sitio web
+14.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Vitacura y el Consejo para la Transparencia",313,14.06.2012,"Sitio web
+14.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Putaendo y el Consejo para la Transparencia",312,14.06.2012,"Sitio web
+14.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Olmué y el Consejo para la Transparencia",311,14.06.2012,"Sitio web
+14.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Santa María y el Consejo para la Transparencia",310,14.06.2012,"Sitio web
+14.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Isla de Maipo y el Consejo para la Transparencia",309,14.06.2012,"Sitio web
+14.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Machalí y el Consejo para la Transparencia",303,12.06.2012,"Sitio web
+12.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Zapallar y el Consejo para la Transparencia",300,12.06.2012,"Sitio web
+12.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Quilpué y el Consejo para la Transparencia",291,12.06.2012,"Sitio web
+12.06.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Maipú y el Consejo para la Transparencia",257,30.05.2012,"Sitio web
+30.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de La Pintana y el Consejo para la Transparencia",256,30.05.2012,"Sitio web
+30.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Cerro Navia y el Consejo para la Transparencia",255,30.05.2012,"Sitio web
+30.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Valparaíso y el Consejo para la Transparencia",244,25.05.2012,"Sitio web
+25.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Buin y el Consejo para la Transparencia",243,25.05.2012,"Sitio web
+25.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de San Antonio y el Consejo para la Transparencia",242,25.05.2012,"Sitio web
+25.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de San Joaquín y el Consejo para la Transparencia",214,15.05.2012,"Sitio web
+15.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Cerrillo y el Consejo para la Transparencia",206,11.05.2012,"Sitio web
+11.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Pirque y el Consejo para la Transparencia",201,10.05.2012,"Sitio web
+10.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Calle Larga y el Consejo para la Transparencia",200,10.05.2012,"Sitio web
+10.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Hijuelas y el Consejo para la Transparencia",199,10.05.2012,"Sitio web
+10.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Lo Prado y el Consejo para la Transparencia",198,10.05.2012,"Sitio web
+10.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Pirque y el Consejo para la Transparencia",201,10.05.2012,"Sitio web
+10.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Colina y el Consejo para la Transparencia",188,08.05.2012,"Sitio web
+08.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Rancagua y el Consejo para la Transparencia",187,08.05.2012,"Sitio web
+08.05.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de San José de Maipo y el Consejo para la Transparencia",161,24.04.2012,"Sitio web
+24.04.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Codegua y el Consejo para la Transparencia",141,19.04.2012,"Sitio web
+19.04.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de Peñalolén y el Consejo para la Transparencia",142,19.04.2012,"Sitio web
+19.04.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre la Municipalidad de La Granja y el Consejo para la Transparencia",137,18.04.2012,"Sitio web
+18.04.2012","Sin modificaciones","No","Implementar el modelo de Gestión de Transparencia Municipal, que forma parte de la iniciativa para la generación de la Red de Organizaciones Comprometidas con la Transparencia de la Gestión Pública."
+Resolución,"Convenio de colaboración entre el Instituto Nacional de DD. HH. y el Consejo para la Transparencia",90,26.03.2012,"Sitio web
+26.03.2012","Sin modificaciones","No","Desarrollar actividades conjuntas tendientes a promover y difundir experiencias, estudios e iniciativas, tanto nacionales como internacionales, que relacionen la libertad de expresión y el derecho de acceso a la información pública, impulsando el conocimiento, ejercicio y respeto de ambos derechos en la sociedad."
+Convenio,"Convenio de asesoría entre el Consejo para la Transparencia y la Dirección Nacional del Servicio Civil",s/n,28.12.2011,"Sitio web
+28.12.2011","Sin modificaciones","No","La Dirección Nacional del Servicio Civil (DNSC) realizará una Asesoría Estratégica al Consejo para la Transparencia, en ámbitos propios de la gestión de personas, en el marco del proceso estructuración y definición de los procedimientos internos de su Unidad de Gestión de Personas."
+Resolución,"[Convenio](/consejo/site/artic/20131105/asocfile/20131105164728/plan_de_inicio_del_proyecto_entre_pnud_y_cplt.pdf) de Asistencia Preparatoria entre el Consejo para la Transparencia y el Programa de Naciones Unidas para el Desarrollo (PNUD)",407,01.12.2011,"Sitio web
+1.2.2011","Sin modificaciones","No","Se aprueba el convenio sobre el proyecto denominado "Expandiendo el derecho de acceso a la información para fortalecer la democracia y gobernabilidad", en el cual se trabajará en capacitaciones, ley 20.285, impacto del derecho de acceso, líneas estratégicas de colaboración entre el PNUD y el CPLT, entre otros"
+Resolución,"Convenio de Colaboración entre el Consejo para la Transparencia y Fundación AVINA, cuyo objetivo principal es colaborar en la difusión e implementación de los principios de Transparencia.",204,08.08.2011,"Sitio web
+8.08.2011","Sin modificaciones","No","A través de apoyo, buenas prácticas y conocimientos por ambas partes, se establecerá un canal de difusión hacia el público, que permitirá promover una cultura de la transparencia en Chile."
+Convenio,"Convenio de Colaboración entre el Consejo para la Transparencia y Servicio Civil",s/n,05.08.2011,"Sitio web
+5.08.2011","Sin modificaciones","No","Establecer actividades de capacitación a funcionarios públicos en materia de transparencia y acceso a la información, reforzar contenidos de Ética Pública y de Cultura de la Transparencia."
+Resolución,"Convenio de Colaboración entre el Consejo para la Transparencia y Corporación PARTICIPA, cuyo objetivo principal es cooperar en la difusión de la Ley de Transparencia y el Derecho de acceso a la información con las organizaciones sociales.",184,26.07.2011,"Sitio web
+26.07.2011","Sin modificaciones","No","Establecer actividades de capacitación que motiven a una ciudadanía más informada, conocedora de sus derechos y de la complejidad de los asuntos públicos, con capacidad de diálogo y representación de intereses, lo cual permitirá promover una cultura de la transparencia en Chile."
+Convenio,"Convenio de colaboración entre la Agencia Española de Protección de Datos y el Consejo para la Transparencia",s/n,26.05.2011,"Sitio web
+26.05.2011","Sin modificaciones","No","Establecer la realización de actividades conjuntas de cooperación, formación, desarrollo de programas y proyectos específicos en las áreas que se determinen de mutuo acuerdo."
+Convenio,"Convenio de cooperación entre el Consejo para la Transparencia, la Unidad de Acceso a la Información Pública de Uruguay y Agesic",s/n,20.04.2011,"Sitio web
+20.04.2011","Sin modificaciones","No","Establecer las bases y mecanismos operativos de la cooperación entre las partes, que permita coordinar estrategias y actividades dirigidas al fortalecimiento de la cultura de la transparencia"
+Convenio,"Convenio de coolaboración Consejo para la Transparencia y Ministerio Secretaría General de la Presidencia",s/n,15.04.2011,"Sitio web
+15.04.2011","Sin modificaciones","No","Acuerdan un trabajo colaborativo tendiente a implementar un "Portal de Transparencia del Estado de Chile" para facilitar el cumplimiento de la Ley N°20.285, fijando su rol , características, diseño, funcionalidades, especificaciones y finalidades."
+Convenio,"Convenio de coolaboración Consejo para la Transparencia y Ministerio Secretaría General de la Presidencia",s/n,24.03.2011,"","Sin modificaciones","No","La SUBDERE, en conjunto con el Consejo para la Transparencia y la ACHM, han decidido trabajar coordinadamente y prestarse colaboración para desarrollar una serie de acciones tendientes a dotar a los municipios y a sus funcionarios de herramientas y sistemas que les permitan realizar una gestión más eficiente."
+Acuerdo de cooperación,"Acuerdo de cooperación entre el Consejo para la Transparencia y The National Security Archive",s/n,14.12.2010,"Sitio web
+25.11.2010","Sin modificaciones","No","Facilitar el intercambio de experiencias entre profesionales de acceso a la información, organizar agenda de visitas y mantener canales de comunicación abierta, entre otros."
+Protocolo de acuerdo,"Protocolo de acuerdo entre Consejo para la Transparencia y Asociación de Municipalidades de la Región del Maule",s/n,25.11.2010,"Sitio web
+25.11.2010","Sin modificaciones","No","Cooperar, asistir y complementarse, dentro de las esferas de sus competencias, en especial, en la creación, ejecución y desarrollo de grupos de trabajo y de proyectos conjuntos y otras formas de cooperación que las dos organizaciones puedan organizar."
+Convenio Marco,"Convenio marco de acuerdo Instituto de Estudios Judiciales y Consejo para la Transparencia",s/n,10.11.2010,"","Sin modificaciones","No","Ambas Instituciones vienen en suscribir el presente Convenio, mediante el cual desean establecer el Marco de Referencia de una relación de colaboración y de cooperación, que busca desarrollar y ejecutar con eficiencia las distintas iniciativas que se asuman."
+Acuerdo de cooperación,"Convenio de Cooperación en materia de Transparencia y Acceso a la Información entre el Consejo para la Transparencia de la República de Chile y el Instituto Federal de Acceso a la Información Pública de los Estados Unidos Mexicanos",s/n,20.04.2010,"Sitio web 20.04.2010","Sin modificaciones","No","Establecer las bases y mecanismos operativos de la cooperación entre las partes, que les permita coordinar la ejecución de estrategias y actividades dirigidas al fortalecimiento de la cultura de la transparencia y la apertura informativa, buscando el beneficio de las sociedades de la República de Chile y los Estados Unidos Mexicanos, mediante el intercambio y promoción de experiencias y herramientas de acceso a la información pública gubernamental."
+Convenio de cooperación,"Convenio de Cooperación en materia de Transparencia y Acceso a la Información entre el Consejo para la Transparencia de la República de Chile y el Instituto Federal de Acceso a la Información Pública de los Estados Unidos Mexicanos",s/n,20.04.2010,"Sitio web
+20.04.2010","Sin modificaciones","No","Establecer las bases y mecanismos operativos de la cooperación entre las partes, que les permita coordinar la ejecución de estrategias y actividades dirigidas al fortalecimiento de la cultura de la transparencia y la apertura informativa, buscando el beneficio de las sociedades de la República de Chile y los Estados Unidos Mexicanos, mediante el intercambio y promoción de experiencias y herramientas de acceso a la información pública gubernamental."
+Memorandum de entendimiento,"Entendimiento entre Consejo para la Transparencia y Banco Mundial",s/n,19.04.2010,"Sitio web
+19.04.2010","Sin modificaciones","No","Establecer relaciones de colaboración entre las dos instituciones para promover la cooperación en una asociación de beneficio mutuo según lo acordado en el documento."
+Acuerdo de Cooperación,"Acuerdo de cooperación entre el Consejo para la Transparencia y The National Security Archive",s/n,14.12.2010,"Sitio web
+14.12.2010","Sin modificaciones","No","Facilitar el intercambio de experiencias entre profesionales de acceso a la información, organizar agenda de visitas y mantener canales de comunicación abierta, entre otros."
+Convenio marco,"Convenio marco de acuerdo Instituto de Estudios Judiciales y Consejo para la Transparencia",s/n,10.11.2010,"Sitio web
+10.11.2010","Sin modificaciones","No","Ambas Instituciones vienen en suscribir el presente Convenio, mediante el cual desean establecer el Marco de Referencia de una relación de colaboración y de cooperación, que busca desarrollar y ejecutar con eficiencia las distintas iniciativas que se asuman."
+Memorandum de entendimiento,"Memorándum de entendimiento entre Consejo para la Transparencia y Pontificia Universidad Católica de Chile",s/n,19.10.2009,"Sitio web
+19.10.2009","Sin modificaciones","No","Las partes expresan su deseo de cooperar, asistirse y complementarse, de acuerdo con lo con se convenga en cada oportunidad, en especial, las áreas descritas."
+Protocolo de acuerdo,"Protocolo de acuerdo entre Ministerio Secretaría General de la Presidencia y Consejo para la Transparencia",s/n,03.07.2009,"Sitio web
+03.07.2009","Sin modificaciones","No","El objeto de este protocolo es mantener canales de cooperación y coordinación para promover el cumplimiento de la Ley de Transparencia, aprovechar las experiencias y facultades de ambas partes y potenciar las sinergias que se pueden producir en este trabajo conjunto."
+Convenio de colaboración,"Convenio de colaboración entre la Contraloría General de la República y el Consejo para la Transparencia",s/n,03.06.2009,"Sitio web
+03.06.2009","Sin modificaciones","No","La Contraloría y el Consejo celebran un convenio de cooperación en los términos que señalan las cláusulas contenidas en el mismo."
+Tipo,"Denominación",N°,Fecha,"Fecha de última actualización","Medio de publicación y fecha","Efectos Generales","Descripción del objeto del acto"
+Resolución Fondo Nacional de Salud,"Resolución de sumario en caso rol C1190-11",188,10-05-2013,"N/A","Sitio web del organismo","No","Sobreseimiento"
+Resolución Municipalidad de lo Prado,"Resolución de sumario en caso rol C140-12",190,10-05-2013,"N/A","Sitio web del organismo","No","Sobreseimiento"
+Resolución Municipalidad de Curicó,"Resolución de sumario en caso rol C497-10",49,07-03-2013,"N/A","Sitio web del organismo","No","Sanción 20% Ex Alcalde y Ex Director de Control Interno"
+Resolución Municipalidad de Cartagena,"Resolución de sumario en caso rol C1436-11",50,07-03-2013,"N/A","Sitio web del organismo","No","Sanción 20% Ex Alcalde"
+Resolución Municipalidad de Bulnes,"
+TA Municipal - Abril 2012",51,31-01-2013,"N/A","Sitio web del organismo","No","Sanción 20% administradora municipal"
+Resolución Municipalidad de Nancagua,"TA Municipal - Abril 2012",48,31-01-2013,"N/A","Sitio web del organismo","No","Sobreseimiento"
+Resolución Municipalidad de Las Cabras,"TA Municipal - Abril 2012",73,26-02-2013,"N/A","Sitio web del organismo","No","Sanción 30% alcalde y director de control"
+Resolución Municipalidad de Rengo,"TA Municipal - Abril 2012",77,26-02-2013,"N/A","Sitio web del organismo","No","Sanción 20% alcalde y director de control"
+Resolución Municipalidad de Los Álamos,"TA Municipal - Abril 2012",76,26-02-2013,"N/A","Sitio web del organismo","No","Sanción 20% funcionarios responsables (2)"
+Resolución Municipalidad de El Monte,"TA Municipal - Abril 2012",78,26-02-2013,"N/A","Sitio web del organismo","No","Sanción 20% alcalde"
+Resolución Municipalidad de Concón,"Resolución de sumario en caso rol C693-11",74,12-03-2013,"N/A","Sitio web del organismo","No","Sobreseimiento"
+Resolución Municipalidad de Independencia,"TA Municipal - Abril 2012",75,26-02-2013,"N/A","Sitio web del organismo","No","Absuelve Director de control"
+Resolución Municipalidad de Estación Central,"TA Municipal - Abril 2012",99,25-03-2013,"N/A","Sitio web del organismo","No","Absuelve a Alcalde y a Dir. de Control"
+Resolución Municipalidad de Coltauco,"TA Municipal - Abril 2012",100,25-03-2013,"N/A","Sitio web del organismo","No","Absuelve a Alcalde y a Adm. Municipal"
+Resolución Municipalidad de Futrono,"TA Municipal - Abril 2012",108,28-03-2013,"N/A","Sitio web del organismo","No","Sanción 20% a Jefe de Control"
+Resolución Municipalidad de Río Bueno,"TA Municipal - Abril 2012",109,28-03-2013,"N/A","Sitio web del organismo","No","Sanción a 20% Adm. Mun. y absuelve a Dir. Cont"
+Resolución Municipalidad de Iquique,"TA Municipal - Abril 2012",110,28-03-2013,"N/A","Sitio web del organismo","No","Sanción 20% a Encargado de Transparencia."
+Resolución,"Resolución de sumario en reclamo rol C1194-11",557,26.10.2012,"N/A","Sitio web del organismo","No","Sanción"
+Resolución,"Resolución de sumario en reclamo rol C88-11",495,14.09.2012,"N/A","Sitio web del organismo","No","Sanción"
+Resolución,"Resolución de sumario en reclamo rol C861-10",496,14.09.2012,"N/A","Sitio web del organismo","No","Sanción"
+Resolución,"Resolución de sumario en reclamo rol C139-11",457,27.08.201,"N/A","Sitio web del organismo","No","Sanción"
+Resolución,"Resolución de sumario en reclamo rol A308-09",59,17.02.2012,"N/A","Sitio web del organismo","No","Sanción"
+Resolución,"Resolución de sumario en reclamo rol C34-11",40,27.01.2012,"N/A","Sitio web del organismo","No","Sanción"
+Resolución,"Resolución de sumario en reclamo rol C62-10",85,23.03.2012,"N/A","Sitio web del organismo","No","Sanción"
+Resolución,"Resolución de sumario en reclamo rol R19-09",84,14.04.2011,"N/A","Sitio web del organismo","No","Sanción"
+Resolución,"Resolución de sumario en reclamo rol R06-09",83,14.04.2011,"N/A","Sitio web del organismo","No","Sanción"
+Resolución,"Resolución de sumario en reclamo rol R13-09",78,11.04.2011,"N/A","Sitio web del organismo","No","Sanción"
+Tipo,"Denominación",N°,Fecha,"Fecha de última actualización","Medio de publicidad y fecha","Efectos Generales","Descripción del objeto del acto"
+Recomendación,"",S/N,15/05/13,"Sin modificaciones","Notificación por carta certificada 15.05.2013","Sí","Recomendaciones cuyo objeto es incorporar elementos de transparencia en la gestión de las pruebas de selección universitaria que dirige el Departamento de Evaluación, Medición y Registro Educacional (DEMRE) de la Universidad de Chile, en conjunto con el Comité Técnico Asesor de la prueba de selección universitario (PSU) del Consejo de Rectores y el Ministerio de Educación."
+Recomendación,"Recomendación a las diferentes Municipalidades, adoptar todas las medidas necesarias para el adecuado cumplimiento de la Ley Nº 19.628 sobre Protección de la Vida Privada",S/N,27/03/13,"Sin modificaciones","Notificación por carta certificada 28.03.2013","Sí","Recomendaciones del Consejo para la Transparencia sobre protección de datos personales por parte de los órganos de la Administración del Estado, en la celebración de los contratos de distribución de boletines de cobro, comunicación de morosidad de impuestos, derechos municipales y publicación de datos personales de los morosos con empresas especializadas en el rubro."
+Recomendación,"Recomendación sobre Protección de Datos Personales por parte de los órganos de la administración del Estado",S/N,31.08.2011,"Sin modificaciones","Diario Oficial
+14.09.2011","Sí","Recomendaciones del Consejo para la Transparencia sobre protección de datos personales por parte de los órganos de la administración del Estado con la finalidad de dar cumplimiento a la Ley N°19.628."
+Recomendación,"Recomendaciones para asegurar el adecuado cumplimiento de la Ley de Transparencia durante la etapa de traspaso de mando y asunción de futuras autoridades",Oficio N°90,25.01.2010,"Sin modificaciones","Notificación por carta certificada 25.01.2010","No","Recomendaciones a los órganos y servicios de la Administración del Estado para asegurar el adecuado cumplimiento de la Ley de Transparencia durante la etapa de traspaso de mando y asunción de futuras autoridades"
+Tipo,"Denominación",N°,Fecha de última actualización,"Fecha","Medio de publicidad y fecha","Efectos Generales","Descripción del objeto del acto"
+Oficio,"Formula recomendaciones a los órganos y servicios de la Administración del Estado para asegurar el adecuado cumplimiento de la Ley de Transparencia durante la etapa de traspaso de mando y asunción de futuras autoridades",432,Sin modificaciones,"31.01.2014","Notificación por carta certificada el 31.01.2014","Si","Con la finalidad de facilitar el acceso a la información que posean los órganos de la Administración del Estado, y considerando la próxima asunción de la Presidenta de la República electa y el subsecuente nombramiento de nuevas autoridades, se adoptaron recomendaciones en orden a que los órganos y servicios de la Administración del Estado faciliten el cumplimiento de las normas contenidas en la Ley de Transparencia y, en especial, los procedimientos administrativos del derecho de acceso a la información."
+Oficio,"Precisa en el ámbito municipal el modo de cumplimiento de las obligaciones de Transparencia Activa establecidas en la Ley de Transparencia, su Reglamento y la Instrucción General del Consejo para la Transparencia sobre la materia y requiere su cumplimiento",431,Sin modificaciones,"31.01.2014","Notificación por carta certificada el 31.01.2014","Si","Precisar en el ámbito municipal el modo de cumplimiento de las obligaciones de transparencia activa establecidas en la Ley de Transparencia, su Reglamento y la Instrucción General del Consejo para la Transparencia sobre la materia y requerir su cumplimiento, lo anterior, frente a la necesidad de efectuar algunas precisiones sobre la materia, atendidas las especiales funciones y atribuciones de los municipios, como órganos de la Administración del Estado."
+Oficio,"Requiere a las Corporaciones Municipales ajustar procedimiento publicación TA",2079,Sin modificaciones,"29.05.2013","Sitio web del organismo
+11.05.2013","No","Requiere a las corporaciones
+municipales ajusten sus procedimientos
+para dar cumplimiento a las normas de
+Transparencia Activa establecidas en la
+Ley de Transparencia."
+Tipo,"Denominación",N°,Fecha de última actualización,"Fecha","Medio de publicidad y fecha","Efectos Generales","Descripción del objeto del acto"
+Resolución,"Deja sin efecto resolución exenta N°437 de 2 de diciembre de 2010 que delega en el jefe de la Unidad de Promoción y Clientes la facultad de firmar "por orden del Director General del Consejo para la Transparencia" las respuestas que den acceso a la información del Consejo",178,Sin modificaciones,"04.05.2012","Sitio web del organismo
+04.05.2012","No","Deja sin efecto delegación en el jefe de la Unidad de Promoción y Clientes la facultad de firmar "por orden del Director General del Consejo para la Transparencia" las respuestas que den acceso a la información del Consejo"
